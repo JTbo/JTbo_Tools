@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1">
+  <asmv1:assemblyIdentity name="TGM editor.exe" version="1.0.0.1" publicKeyToken="2f536a607fff4bbf" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="TGM editor" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="TGM editor.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="2.0.50727.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="System.Core" version="3.5.0.0" publicKeyToken="b77a5c561934e089" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="WindowsBase" version="3.0.0.0" publicKeyToken="31bf3856ad364e35" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="TGM editor.exe" size="13312">
+      <assemblyIdentity name="TGM editor" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>2B/6ASZuyoEw4SRyqj4PxSKUeFs=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="TGM editor.exe.config" size="77">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>w7WNgu5MxCvL4DAgISBxgwmhDzU=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=JMAIN\root" issuerKeyHash="92dea2e7bf9a73a542f5d8be79083837feef7d44" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>BuPS0B4E+uLcqNOylUgUECutfIc=</DigestValue></Reference></SignedInfo><SignatureValue>DSyYRpIzlFCAM10XRvj4LkdU6tCVM02G0jJR0m2R6FNALLVVbdmCAEPK5NetJShdqTVBfoTFE01narzgsdwDkI67T8tZ9cJR5s/nuMF4sm0DuDBNXFSOewAeqcq7ZsWSjAIpC4FvCKXsgl1y9j7COC44RbXlHcBjgse9l62gQGU=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>zwiah/0Yj+WfC810z6qMh66pX/FrVuxMkxkkPehpa2LMesG1P+4sCQedeb6LrtHE5LMfbb6IKFRXZfVylTNs/FHsvgNSJiamz/9t7LKelc7zaYGMG2ILmwc6r4q2bx6bz7M8Mc9TVZ+XQt3hfxg7WES5EpE/9znJdrzunrFGdfM=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="877cad2b10144895b2d3a8dce2fa041ed0d2e306" Description="" Url=""><as:assemblyIdentity name="TGM editor.exe" version="1.0.0.1" publicKeyToken="2f536a607fff4bbf" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=JMAIN\root</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>KSL27H1fi/2ZkcVLF88q6fLORj4=</DigestValue></Reference></SignedInfo><SignatureValue>wsMcHEf5SXb2mSffw3ImNWREZ4Xb9pmBCAKGJAvWneJryVohHFlZRshmlmfGPZL9hDXHtv5iVtX+N3BzA/pTdBzRB2EIP4NPWOU0DQBj1985faZ1qpvnXJCcKR0DeJPjvf7bBH/j7kHMmmgyRN1WWmh25HCo/ZkQt+xM7uM0fvw=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>zwiah/0Yj+WfC810z6qMh66pX/FrVuxMkxkkPehpa2LMesG1P+4sCQedeb6LrtHE5LMfbb6IKFRXZfVylTNs/FHsvgNSJiamz/9t7LKelc7zaYGMG2ILmwc6r4q2bx6bz7M8Mc9TVZ+XQt3hfxg7WES5EpE/9znJdrzunrFGdfM=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIBuTCCASagAwIBAgIQBSfAgIX8H69Mq0jC/tf0JDAJBgUrDgMCHQUAMB8xHTAbBgNVBAMeFABKAE0AQQBJAE4AXAByAG8AbwB0MB4XDTEyMTExNTA1NDUyNVoXDTEzMTExNTExNDUyNVowHzEdMBsGA1UEAx4UAEoATQBBAEkATgBcAHIAbwBvAHQwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAM8Imof9GI/lnwvNdM+qjIeuqV/xa1bsTJMZJD3oaWtizHrBtT/uLAkHnXm+i67RxOSzH22+iChUV2X1cpUzbPxR7L4DUiYmps//beyynpXO82mBjBtiC5sHOq+Ktm8em8+zPDHPU1Wfl0Ld4X8YO1hEuRKRP/c5yXa87p6xRnXzAgMBAAEwCQYFKw4DAh0FAAOBgQCzWm6+1Kj5KlgvfP1PMoSyIlhMx35oQ0W9A9hzAYut2gBprcD+Pfy+jJNM9mQ/DdzqvYW+FZo/9Zfj6u3rwAp6SiscQQNzYnZrwZxacmNWy/3CUXWMl+KGd+JRfKKXCFAjRD71qcTmcM9/2pLCMjVzrZ40F3P+aT+2P8AmCK5zIw==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
