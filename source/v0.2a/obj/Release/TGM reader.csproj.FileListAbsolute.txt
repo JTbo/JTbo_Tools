@@ -1,0 +1,13 @@
+I:\Documents and settings\root\My Documents\Visual Studio 2008\Projects\TGM reader\TGM reader\obj\Release\ResolveAssemblyReference.cache
+I:\Documents and settings\root\My Documents\Visual Studio 2008\Projects\TGM reader\TGM reader\obj\Release\TGM_reader.Form1.resources
+I:\Documents and settings\root\My Documents\Visual Studio 2008\Projects\TGM reader\TGM reader\obj\Release\TGM_reader.Properties.Resources.resources
+I:\Documents and settings\root\My Documents\Visual Studio 2008\Projects\TGM reader\TGM reader\obj\Release\TGM reader.csproj.GenerateResource.Cache
+I:\Documents and settings\root\My Documents\Visual Studio 2008\Projects\TGM reader\TGM reader\bin\Release\TGM editor.exe.config
+I:\Documents and settings\root\My Documents\Visual Studio 2008\Projects\TGM reader\TGM reader\bin\Release\TGM editor.exe.manifest
+I:\Documents and settings\root\My Documents\Visual Studio 2008\Projects\TGM reader\TGM reader\bin\Release\TGM editor.application
+I:\Documents and settings\root\My Documents\Visual Studio 2008\Projects\TGM reader\TGM reader\bin\Release\TGM editor.exe
+I:\Documents and settings\root\My Documents\Visual Studio 2008\Projects\TGM reader\TGM reader\bin\Release\TGM editor.pdb
+I:\Documents and settings\root\My Documents\Visual Studio 2008\Projects\TGM reader\TGM reader\obj\Release\TGM editor.exe.manifest
+I:\Documents and settings\root\My Documents\Visual Studio 2008\Projects\TGM reader\TGM reader\obj\Release\TGM editor.application
+I:\Documents and settings\root\My Documents\Visual Studio 2008\Projects\TGM reader\TGM reader\obj\Release\TGM editor.exe
+I:\Documents and settings\root\My Documents\Visual Studio 2008\Projects\TGM reader\TGM reader\obj\Release\TGM editor.pdb

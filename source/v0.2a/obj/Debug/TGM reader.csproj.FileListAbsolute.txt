@@ -1,0 +1,30 @@
+C:\Documents and Settings\root\Local Settings\Application Data\Temporary Projects\TGM reader\bin\Debug\TGM reader.exe
+C:\Documents and Settings\root\Local Settings\Application Data\Temporary Projects\TGM reader\bin\Debug\TGM reader.pdb
+C:\Documents and Settings\root\Local Settings\Application Data\Temporary Projects\TGM reader\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\root\Local Settings\Application Data\Temporary Projects\TGM reader\obj\Debug\TGM_reader.Form1.resources
+C:\Documents and Settings\root\Local Settings\Application Data\Temporary Projects\TGM reader\obj\Debug\TGM_reader.Properties.Resources.resources
+C:\Documents and Settings\root\Local Settings\Application Data\Temporary Projects\TGM reader\obj\Debug\TGM reader.csproj.GenerateResource.Cache
+C:\Documents and Settings\root\Local Settings\Application Data\Temporary Projects\TGM reader\obj\Debug\TGM reader.exe
+C:\Documents and Settings\root\Local Settings\Application Data\Temporary Projects\TGM reader\obj\Debug\TGM reader.pdb
+I:\Documents and settings\root\My Documents\Visual Studio 2008\Projects\TGM reader\TGM reader\obj\Debug\ResolveAssemblyReference.cache
+I:\Documents and settings\root\My Documents\Visual Studio 2008\Projects\TGM reader\TGM reader\obj\Debug\TGM_reader.Form1.resources
+I:\Documents and settings\root\My Documents\Visual Studio 2008\Projects\TGM reader\TGM reader\obj\Debug\TGM_reader.Properties.Resources.resources
+I:\Documents and settings\root\My Documents\Visual Studio 2008\Projects\TGM reader\TGM reader\obj\Debug\TGM reader.csproj.GenerateResource.Cache
+G:\TGM reader\TGM reader\bin\Debug\TGM reader.exe.config
+G:\TGM reader\TGM reader\obj\Debug\TGM reader.exe
+G:\TGM reader\TGM reader\obj\Debug\TGM reader.pdb
+G:\TGM reader\TGM reader\bin\Debug\TGM reader.exe
+G:\TGM reader\TGM reader\bin\Debug\TGM reader.pdb
+G:\TGM reader\TGM reader\obj\Debug\ResolveAssemblyReference.cache
+G:\TGM reader\TGM reader\obj\Debug\TGM_reader.Form1.resources
+G:\TGM reader\TGM reader\obj\Debug\TGM_reader.Properties.Resources.resources
+G:\TGM reader\TGM reader\obj\Debug\TGM reader.csproj.GenerateResource.Cache
+I:\Documents and settings\root\My Documents\Visual Studio 2008\Projects\TGM reader\TGM reader\bin\Debug\TGM editor.exe.config
+I:\Documents and settings\root\My Documents\Visual Studio 2008\Projects\TGM reader\TGM reader\bin\Debug\TGM editor.exe.manifest
+I:\Documents and settings\root\My Documents\Visual Studio 2008\Projects\TGM reader\TGM reader\bin\Debug\TGM editor.application
+I:\Documents and settings\root\My Documents\Visual Studio 2008\Projects\TGM reader\TGM reader\bin\Debug\TGM editor.exe
+I:\Documents and settings\root\My Documents\Visual Studio 2008\Projects\TGM reader\TGM reader\bin\Debug\TGM editor.pdb
+I:\Documents and settings\root\My Documents\Visual Studio 2008\Projects\TGM reader\TGM reader\obj\Debug\TGM editor.exe.manifest
+I:\Documents and settings\root\My Documents\Visual Studio 2008\Projects\TGM reader\TGM reader\obj\Debug\TGM editor.application
+I:\Documents and settings\root\My Documents\Visual Studio 2008\Projects\TGM reader\TGM reader\obj\Debug\TGM editor.exe
+I:\Documents and settings\root\My Documents\Visual Studio 2008\Projects\TGM reader\TGM reader\obj\Debug\TGM editor.pdb
